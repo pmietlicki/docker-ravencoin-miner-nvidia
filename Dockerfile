@@ -1,4 +1,4 @@
-FROM  pmietlicki/xmrig:nvidia
+FROM  pmietlicki/xmrig:nvidia-wsl
 
 # Configuration variables.
 ENV POOL_URL    		rvn-eu1.nanopool.org:12222
